@@ -1,0 +1,9 @@
+body {
+  font-family: 'Poppins', arial, helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: hsl(257, 40%, 49%);
+  background-image: url(./images/bg-desktop.svg);
+  color: white;
+  margin: 0;
+}
