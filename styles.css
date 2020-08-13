@@ -118,17 +118,17 @@ a {
 @media (max-width: 600px) {
   body {
     background-image: url(./images/bg-mobile.svg);
+    width: 100%;
+    height: auto;
   }
 
   header {
-    padding: 0;
-    display: flex;
-    justify-content: center;
+    padding: 20px 0 10px 50px;
     margin-bottom: 40px;
   }
 
   .logo {
-    width: 50%;
+    width: 40%;
     height: auto;
   }
 
